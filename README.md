@@ -5,7 +5,7 @@
 
 This is an experiment to provide exactly this. 
 
-The repository contains starter code for **all CSV data sets** (currently 394) that are available in the [data shop of the Statistical Office of Canton Zurich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/). 
+The [repository](https://github.com/rnckp/starter-code-ktzh) contains starter code for **all CSV data sets** (currently 394) that are available in the [data shop of the Statistical Office of Canton Zurich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/). 
 
 In the list below you find links to preconfigured code files so that you immediately can start analyzing the data with R or Python.
 
