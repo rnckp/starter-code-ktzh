@@ -1,6 +1,6 @@
 ---
 title: "Polizeilich registrierte Verkehrsunfälle im Kanton Zürich seit 2011"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-10-03T13:43:04
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000718_00001783.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000718_00001783.csv')
 
 
 

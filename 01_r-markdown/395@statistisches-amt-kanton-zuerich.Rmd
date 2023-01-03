@@ -1,6 +1,6 @@
 ---
 title: "Jahresrechnungen der Körperschaften des Kantons Zürich"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2019-02-15T11:39:33
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Jahresrechung_Anstalten.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Jahresrechung_Anstalten.csv')
 
 # Distribution 1
 # Ktzhdistid               : 526
@@ -58,7 +58,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Ja
 # Modified                 : 2019-02-15T11:40:25
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_jahresrechung_politischeGemeinden.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_jahresrechung_politischeGemeinden.csv')
 
 # Distribution 2
 # Ktzhdistid               : 527
@@ -68,7 +68,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_ja
 # Modified                 : 2019-02-15T11:41:04
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_jahresrechung_SchulgemeindenMitPrimar.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_jahresrechung_SchulgemeindenMitPrimar.csv')
 
 # Distribution 3
 # Ktzhdistid               : 528
@@ -78,7 +78,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_ja
 # Modified                 : 2019-02-15T11:42:28
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Jahresrechung_SchulgemeindenMitSekundar.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Jahresrechung_SchulgemeindenMitSekundar.csv')
 
 # Distribution 4
 # Ktzhdistid               : 529
@@ -88,7 +88,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Ja
 # Modified                 : 2022-07-01T12:51:29
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Jahresrechung_Zweckverbaende.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Jahresrechung_Zweckverbaende.csv')
 
 # Distribution 5
 # Ktzhdistid               : 530
@@ -98,7 +98,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Ja
 # Modified                 : 2019-02-15T11:45:08
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Jahresrechung_konsolidierteGemeinden.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_gpfi_Jahresrechung_konsolidierteGemeinden.csv')
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Lernende der Volksschule im Kanton Zürich nach Erstsprache (Deutsch/nicht Deutsch) ab 2000"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -50,7 +50,7 @@ library(skimr)
 # Modified                 : 2022-10-24T11:33:24
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/bista/ZH_Lernende_Volksschule_Regional_Erstsprache.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/bista/ZH_Lernende_Volksschule_Regional_Erstsprache.csv')
 
 
 

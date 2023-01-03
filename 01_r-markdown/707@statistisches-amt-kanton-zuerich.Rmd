@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 Massnahmen im Kanton Zürich"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-02-24T11:29:57
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/statistikZH/covid19zeitmarker/master/covid19zeitmarker.csv')
+df <- read_delim('https://raw.githubusercontent.com/statistikZH/covid19zeitmarker/master/covid19zeitmarker.csv')
 
 
 

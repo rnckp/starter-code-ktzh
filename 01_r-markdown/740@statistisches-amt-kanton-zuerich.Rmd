@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 Gesellschaftsmonitoring des Kantons Zürich"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2021-10-25T11:18:20
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/statistikZH/covid19monitoring/master/covid19socialmonitoring.csv')
+df <- read_delim('https://raw.githubusercontent.com/statistikZH/covid19monitoring/master/covid19socialmonitoring.csv')
 
 # Distribution 1
 # Ktzhdistid               : 1887
@@ -58,7 +58,7 @@ df <- read_csv2('https://raw.githubusercontent.com/statistikZH/covid19monitoring
 # Modified                 : 2021-10-25T11:18:07
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/statistikZH/covid19monitoring/master/Metadata.csv')
+df <- read_delim('https://raw.githubusercontent.com/statistikZH/covid19monitoring/master/Metadata.csv')
 
 
 

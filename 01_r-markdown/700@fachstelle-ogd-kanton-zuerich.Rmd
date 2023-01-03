@@ -1,6 +1,6 @@
 ---
 title: "Verzeichnis der Personenstammdaten der zentralen Verwaltung des Kantons Zürich"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2020-09-29T17:56:31
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000700_00001723.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000700_00001723.csv')
 
 # Distribution 1
 # Ktzhdistid               : 1725
@@ -58,7 +58,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000
 # Modified                 : 2020-10-01T11:32:36
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000700_00001725.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000700_00001725.csv')
 
 # Distribution 2
 # Ktzhdistid               : 1724
@@ -68,7 +68,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000
 # Modified                 : 2020-10-01T11:32:26
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000700_00001724.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000700_00001724.csv')
 
 
 

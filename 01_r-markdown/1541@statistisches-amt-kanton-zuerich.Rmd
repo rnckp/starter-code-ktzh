@@ -1,6 +1,6 @@
 ---
 title: "Ausländische Wohnbevölkerung mit Schutzstatus S im Kanton Zürich, 10-Jahres-Altersklassen und Geschlecht"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-12-20T08:30:21
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001541_00002958.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001541_00002958.csv')
 
 
 

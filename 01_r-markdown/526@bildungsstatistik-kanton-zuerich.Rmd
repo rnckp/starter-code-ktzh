@@ -1,6 +1,6 @@
 ---
 title: "Lernende der Mittelschulen im Kanton Zürich ab 2000"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -52,7 +52,7 @@ library(skimr)
 # Modified                 : 2022-10-21T15:11:33
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/bista/ZH_Lernende_Mittelschulen.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/bista/ZH_Lernende_Mittelschulen.csv')
 
 
 

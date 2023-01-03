@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 Fallzahlen Kanton Zürich ab 27.02.2020"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-03-15T13:03:53
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_plz/fallzahlen_kanton_ZH_plz.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_plz/fallzahlen_kanton_ZH_plz.csv')
 
 # Distribution 1
 # Ktzhdistid               : 1715
@@ -58,7 +58,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallza
 # Modified                 : 2022-03-15T13:04:31
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_Anteil_positiver_Test_pro_KW.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_Anteil_positiver_Test_pro_KW.csv')
 
 # Distribution 2
 # Ktzhdistid               : 1742
@@ -68,7 +68,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallza
 # Modified                 : 2022-03-15T13:04:58
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_Anteil_positiver_Test_Alterklassen_pro_KW.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_Anteil_positiver_Test_Alterklassen_pro_KW.csv')
 
 # Distribution 3
 # Ktzhdistid               : 1626
@@ -78,7 +78,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallza
 # Modified                 : 2022-03-15T12:56:32
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv_v2/COVID19_Fallzahlen_Kanton_ZH_total.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv_v2/COVID19_Fallzahlen_Kanton_ZH_total.csv')
 
 # Distribution 4
 # Ktzhdistid               : 1613
@@ -88,7 +88,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallza
 # Modified                 : 2020-07-08T14:30:00
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_alter_geschlecht_csv/COVID19_Fallzahlen_Kanton_ZH_alter_geschlecht.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_alter_geschlecht_csv/COVID19_Fallzahlen_Kanton_ZH_alter_geschlecht.csv')
 
 # Distribution 5
 # Ktzhdistid               : 1655
@@ -98,7 +98,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallza
 # Modified                 : 2022-03-15T13:08:12
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_bezirke/fallzahlen_kanton_ZH_bezirk.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_bezirke/fallzahlen_kanton_ZH_bezirk.csv')
 
 # Distribution 6
 # Ktzhdistid               : 1702
@@ -108,7 +108,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallza
 # Modified                 : 2022-03-15T13:08:54
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_alter_geschlecht_csv/COVID19_Fallzahlen_Kanton_ZH_altersklassen_geschlecht.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_alter_geschlecht_csv/COVID19_Fallzahlen_Kanton_ZH_altersklassen_geschlecht.csv')
 
 # Distribution 7
 # Ktzhdistid               : 1785
@@ -118,7 +118,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallza
 # Modified                 : 2021-02-12T16:00:00
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_VOC_Kanton_ZH.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_VOC_Kanton_ZH.csv')
 
 # Distribution 8
 # Ktzhdistid               : 1771
@@ -128,7 +128,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallza
 # Modified                 : 2022-03-15T13:10:42
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_Anteil_positiver_Test_Kinder_Jugendliche_pro_KW.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_Anteil_positiver_Test_Kinder_Jugendliche_pro_KW.csv')
 
 
 

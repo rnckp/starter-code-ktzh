@@ -1,6 +1,6 @@
 ---
 title: "Abfallmengen und Abfallgebühren in den Gemeinden im Kanton Zürich ab 2000"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-11-07T13:23:18
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001803_00003460.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001803_00003460.csv')
 
 # Distribution 1
 # Ktzhdistid               : 3461
@@ -58,7 +58,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001
 # Modified                 : 2022-11-07T13:23:18
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001803_00003461.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001803_00003461.csv')
 
 
 

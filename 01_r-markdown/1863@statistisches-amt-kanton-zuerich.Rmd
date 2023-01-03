@@ -1,6 +1,6 @@
 ---
 title: "Bruttolastgang elektrische Energie der Stadt Winterthur"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -49,7 +49,7 @@ library(skimr)
 # Modified                 : 2023-01-02T10:10:10
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001863_00003562.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001863_00003562.csv')
 
 # Distribution 1
 # Ktzhdistid               : 3561
@@ -59,7 +59,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001
 # Modified                 : 2022-11-25T09:02:55
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001863_00003561.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001863_00003561.csv')
 
 # Distribution 2
 # Ktzhdistid               : 3563
@@ -69,7 +69,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001
 # Modified                 : 2022-11-25T09:02:55
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001863_00003563.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001863_00003563.csv')
 
 # Distribution 3
 # Ktzhdistid               : 3564
@@ -79,7 +79,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001
 # Modified                 : 2022-11-25T09:02:55
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001863_00003564.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001863_00003564.csv')
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Jugendbefragung 2021 der Stadt Uster"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -50,7 +50,7 @@ library(skimr)
 # Modified                 : 2022-05-15T16:00:33
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/GesellschaftStadtUster/kind-jugend-fam_jugendbefragung2021/main/opendata_jugendbefragung.csv')
+df <- read_delim('https://raw.githubusercontent.com/GesellschaftStadtUster/kind-jugend-fam_jugendbefragung2021/main/opendata_jugendbefragung.csv')
 
 # Distribution 1
 # Ktzhdistid               : 2718
@@ -60,7 +60,7 @@ df <- read_csv2('https://raw.githubusercontent.com/GesellschaftStadtUster/kind-j
 # Modified                 : 2022-05-15T16:00:18
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/GesellschaftStadtUster/kind-jugend-fam_jugendbefragung2021/main/variablen_fragen.csv')
+df <- read_delim('https://raw.githubusercontent.com/GesellschaftStadtUster/kind-jugend-fam_jugendbefragung2021/main/variablen_fragen.csv')
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "EFH-Bestand [Whg.]"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-10-10T12:59:40
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_379.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_379.csv')
 
 
 

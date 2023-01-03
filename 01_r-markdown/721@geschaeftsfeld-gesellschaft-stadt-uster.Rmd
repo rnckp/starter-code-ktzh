@@ -1,6 +1,6 @@
 ---
 title: "Beiträge der Kulturförderung der Stadt Uster ab 2018"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2021-11-23T21:12:49
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/GesellschaftStadtUster/kultur_foerderbeitrage/main/daten_kulturfoerderung_uster.csv')
+df <- read_delim('https://raw.githubusercontent.com/GesellschaftStadtUster/kultur_foerderbeitrage/main/daten_kulturfoerderung_uster.csv')
 
 
 

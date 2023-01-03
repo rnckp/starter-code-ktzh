@@ -1,6 +1,6 @@
 ---
 title: "Quartalsbericht Wohnbautätigkeit"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2020-02-01T00:00:00
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000120_00001220.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000120_00001220.csv')
 
 # Distribution 1
 # Ktzhdistid               : 1225
@@ -58,7 +58,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000
 # Modified                 : 2020-02-01T00:00:00
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000120_00001225.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000120_00001225.csv')
 
 
 

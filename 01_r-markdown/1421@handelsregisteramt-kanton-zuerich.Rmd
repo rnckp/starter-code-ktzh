@@ -1,6 +1,6 @@
 ---
 title: "Eintragungen im Handelsregister des Kantons Zürich"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-10-11T14:15:13
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Neueintragungen.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Neueintragungen.csv')
 
 # Distribution 1
 # Ktzhdistid               : 2779
@@ -58,7 +58,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Neu
 # Modified                 : 2022-10-11T14:15:13
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Loeschungen.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Loeschungen.csv')
 
 # Distribution 2
 # Ktzhdistid               : 2780
@@ -68,7 +68,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Loe
 # Modified                 : 2022-10-11T14:15:13
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Konkurse.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Konkurse.csv')
 
 # Distribution 3
 # Ktzhdistid               : 2781
@@ -78,7 +78,7 @@ df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Kon
 # Modified                 : 2022-10-11T14:15:13
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Sitzverlegungen.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_HRA_Sitzverlegungen.csv')
 
 
 

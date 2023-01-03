@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 Impfkampagne im Kanton Zürich ab 18.01.2021 bis 12.10.2022"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-10-28T16:22:29
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Datum_Altersklasse_Geschlecht_v2.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Datum_Altersklasse_Geschlecht_v2.csv')
 
 # Distribution 1
 # Ktzhdistid               : 1880
@@ -58,7 +58,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_vaccination_c
 # Modified                 : 2022-10-28T16:21:08
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_Alter_in_KTZH_wohnhaft_v2.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_Alter_in_KTZH_wohnhaft_v2.csv')
 
 # Distribution 2
 # Ktzhdistid               : 1879
@@ -68,7 +68,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_vaccination_c
 # Modified                 : 2022-10-28T16:19:54
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_PLZ_v2.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_PLZ_v2.csv')
 
 # Distribution 3
 # Ktzhdistid               : 1846
@@ -78,7 +78,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_vaccination_c
 # Modified                 : 2022-10-28T16:19:21
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_Wohnsitz_v2.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_Wohnsitz_v2.csv')
 
 
 

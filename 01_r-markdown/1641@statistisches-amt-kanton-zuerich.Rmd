@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data publizierende Verwaltungseinheiten und -abteilungen im Kanton Zürich"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-12-16T12:49:52
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/data/kanton_zuerich_ogd_orgs.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/data/kanton_zuerich_ogd_orgs.csv')
 
 
 

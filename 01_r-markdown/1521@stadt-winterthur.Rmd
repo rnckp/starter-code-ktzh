@@ -1,6 +1,6 @@
 ---
 title: "Bevölkerung der Stadt Winterthur nach Alter, Geschlecht und Herkunft ab 2021"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-09-20T16:55:57
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001521_00002899.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001521_00002899.csv')
 
 
 

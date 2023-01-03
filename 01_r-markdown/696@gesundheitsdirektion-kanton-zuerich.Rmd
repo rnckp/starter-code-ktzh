@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 Contact Tracing Kanton Zürich ab 14.05.2020 bis 30.03.2022"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2020-10-22T23:18:21
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_contact_tracing_ZH/master/data/Ansteckungswege_2020_total.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_contact_tracing_ZH/master/data/Ansteckungswege_2020_total.csv')
 
 # Distribution 1
 # Ktzhdistid               : 1712
@@ -58,7 +58,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_contact_traci
 # Modified                 : 2020-10-22T23:18:21
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_contact_tracing_ZH/master/data/Ansteckungswege_2020.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_contact_tracing_ZH/master/data/Ansteckungswege_2020.csv')
 
 # Distribution 2
 # Ktzhdistid               : 1808
@@ -68,7 +68,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_contact_traci
 # Modified                 : 2022-05-25T01:09:57
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_contact_tracing_ZH/master/data/Ansteckungswege_2021_total.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_contact_tracing_ZH/master/data/Ansteckungswege_2021_total.csv')
 
 # Distribution 3
 # Ktzhdistid               : 1807
@@ -78,7 +78,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_contact_traci
 # Modified                 : 2022-05-25T01:10:20
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_contact_tracing_ZH/master/data/Ansteckungswege_2021.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_contact_tracing_ZH/master/data/Ansteckungswege_2021.csv')
 
 
 

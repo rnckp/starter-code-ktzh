@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 Belegung Intensivpflege Kanton Zürich ab 29.10.2020"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2021-12-16T17:28:51
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_Belegung_Intensivpflege.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_zh/COVID19_Belegung_Intensivpflege.csv')
 
 
 

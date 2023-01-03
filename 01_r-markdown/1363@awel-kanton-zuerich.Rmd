@@ -1,6 +1,6 @@
 ---
 title: "Luftschadstoffemissionen im Kanton Zürich"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-07-07T09:10:11
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/awel/ostluft_emissionsbilanzen/emissionen_gemeinden_ostluft.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/awel/ostluft_emissionsbilanzen/emissionen_gemeinden_ostluft.csv')
 
 
 

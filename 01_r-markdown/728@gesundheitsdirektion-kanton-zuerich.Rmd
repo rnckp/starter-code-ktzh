@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 Abwassermonitoring im Kanton Zürich ab 30.05.2021"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2022-03-21T10:05:15
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/COVID19_Abwassermonitoring.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/COVID19_Abwassermonitoring.csv')
 
 # Distribution 1
 # Ktzhdistid               : 1850
@@ -58,7 +58,7 @@ df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_wastewater_mo
 # Modified                 : 2021-09-28T08:00:01
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/ara_einzugsgebiet.csv')
+df <- read_delim('https://raw.githubusercontent.com/openZH/covid_19_wastewater_monitoring_ZH/master/ara_einzugsgebiet.csv')
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Web Analytics des Webauftritts des Kantons Zürich ab Juli 2020"
-date: "2023-01-02"
+date: "2023-01-03"
 output: html_document
 ---
 
@@ -48,7 +48,7 @@ library(skimr)
 # Modified                 : 2021-09-27T09:14:37
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
-df <- read_csv2('https://www.web.statistik.zh.ch/UAstat/data_stat.csv')
+df <- read_delim('https://www.web.statistik.zh.ch/UAstat/data_stat.csv')
 
 
 
