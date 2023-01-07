@@ -1,6 +1,6 @@
 ---
 title: "Tagesregistereinträge zum Kanton Zürich und der Schweiz aus dem Zentralen Firmenindex (Zefix) des Bundes"
-date: "2023-01-03"
+date: "2023-01-07"
 output: html_document
 ---
 

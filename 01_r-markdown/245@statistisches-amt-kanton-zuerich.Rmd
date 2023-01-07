@@ -1,6 +1,6 @@
 ---
 title: "Steuerb. Einkommen natürl. Pers. 25%-Quantil [Fr.]"
-date: "2023-01-03"
+date: "2023-01-07"
 output: html_document
 ---
 

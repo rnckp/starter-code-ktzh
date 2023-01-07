@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 open government data reported by Swiss Cantons and Principality of Liechtenstein from January 5, 2020"
-date: "2023-01-03"
+date: "2023-01-07"
 output: html_document
 ---
 
