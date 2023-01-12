@@ -1,10 +1,10 @@
 .DS_Store
-_output_rmd/.DS_Store
-_output_python/.DS_Store
+01_r-markdown/.DS_Store
+02_python/.DS_Store
 
 .ipynb_checkpoints
-_output_rmd/.ipynb_checkpoints
-_output_python/.ipynb_checkpoints
+01_r-markdown/.ipynb_checkpoints
+02_python/.ipynb_checkpoints
 
-_output_rmd/.Rhistory
+markdown/.Rhistory
 
