@@ -1,6 +1,6 @@
 ---
 title: "Abfallmengen und Abfallgebühren in den Gemeinden im Kanton Zürich ab 2000"
-date: "2023-01-08"
+date: "2023-01-13"
 output: html_document
 ---
 

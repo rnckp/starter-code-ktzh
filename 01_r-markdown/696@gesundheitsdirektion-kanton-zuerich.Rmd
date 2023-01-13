@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 Contact Tracing Kanton Zürich ab 14.05.2020 bis 30.03.2022"
-date: "2023-01-08"
+date: "2023-01-13"
 output: html_document
 ---
 
