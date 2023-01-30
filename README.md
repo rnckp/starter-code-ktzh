@@ -8,7 +8,7 @@ The [repository](https://github.com/rnckp/starter-code-ktzh) contains starter co
 
 In the list below you find links to preconfigured code files so that you immediately can start analyzing the data with R or Python.
 
-**The Jupyter Notebooks can be opened directly in Google Colab too.** 🚀
+**The Jupyter Notebooks can be opened directly in Google Colab.** 🚀
 
 Feedback is always very welcome – simply open an issue.
 
