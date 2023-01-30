@@ -1,6 +1,6 @@
 ---
 title: "Bevölkerung nach Gemeinde, Heimat, Geschlecht und Alter ab 2010"
-date: "2023-01-13"
+date: "2023-01-30"
 output: html_document
 ---
 

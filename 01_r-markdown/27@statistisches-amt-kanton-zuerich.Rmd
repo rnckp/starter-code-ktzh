@@ -1,6 +1,6 @@
 ---
 title: "Gemeindebeitrag an ZVV [1000 Fr.]"
-date: "2023-01-13"
+date: "2023-01-30"
 output: html_document
 ---
 

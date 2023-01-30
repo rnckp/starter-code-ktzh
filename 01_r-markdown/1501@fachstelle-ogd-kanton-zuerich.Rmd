@@ -1,6 +1,6 @@
 ---
 title: "Web Analytics des Daten- und Publikationskatalogs des Kantons Zürich ab April 2021 bis März 2022"
-date: "2023-01-13"
+date: "2023-01-30"
 output: html_document
 ---
 

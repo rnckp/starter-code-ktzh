@@ -1,6 +1,6 @@
 ---
 title: "Abstimmungsarchiv des Kantons Zürich ab 1831"
-date: "2023-01-13"
+date: "2023-01-30"
 output: html_document
 ---
 

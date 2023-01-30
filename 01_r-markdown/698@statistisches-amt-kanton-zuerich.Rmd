@@ -1,6 +1,6 @@
 ---
 title: "Anfragestatistik des Data Shop im Statistischen Amt des Kantons Zürich ab 2015"
-date: "2023-01-13"
+date: "2023-01-30"
 output: html_document
 ---
 
@@ -47,7 +47,7 @@ library(skimr)
 # Title                    : Anfragestatistik des Data Shop im Statistischen Amt des Kantons Zürich ab 2015
 # Description              : NA
 # Issued                   : 2022-12-02T12:18:50
-# Modified                 : 2023-01-01T05:28:14
+# Modified                 : 2023-01-25T10:24:42
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000698_00003668.csv')

@@ -1,6 +1,6 @@
 ---
 title: "COVID_19 Sterbeorte Kanton Zürich pro Tag ab 15.03.2020"
-date: "2023-01-13"
+date: "2023-01-30"
 output: html_document
 ---
 

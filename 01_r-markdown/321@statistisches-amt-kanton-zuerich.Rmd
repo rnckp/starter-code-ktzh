@@ -1,6 +1,6 @@
 ---
 title: "1-Personenhaushalte [Anz.]"
-date: "2023-01-13"
+date: "2023-01-30"
 output: html_document
 ---
 
