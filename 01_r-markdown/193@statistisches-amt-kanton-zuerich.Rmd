@@ -1,5 +1,5 @@
 ---
-title: "{{ DOCUMENT_TITLE }}"
+title: "Open Government Data, provided by Canton Zurich"
 date: "2023-01-30"
 output: html_document
 ---
