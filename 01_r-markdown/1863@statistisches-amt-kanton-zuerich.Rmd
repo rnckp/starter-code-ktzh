@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-01-30"
+date: "2023-01-31"
 output: html_document
 ---
 
@@ -9,7 +9,7 @@ output: html_document
 Der Bruttolastgang entspricht der im Netzgebiet von Stadtwerk Winterthur an Endverbraucher abgegebenen elektrischen Energie in einer Auflösung von 15 Minuten. Die Berechnung erfolgt täglich gemäss dem Metering Code Schweiz mit den verfügbaren Daten und wird zwischen dem 5. und 10. Arbeitstag für den Vormonat plausibilisiert. Aufgrund der grossen Anzahl an Datensätzen, die der Berechnung der Bruttolastgangsumme zugrunde liegen, können die Werte im Verlauf der Zeit, bis max. 6 Monate zurück, noch nachträglich angepasst werden. Dargestellt sind die Stromverbrauchsdaten seit 2013.
 
 
-[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/datasets/1863@statistisches-amt-kanton-zuerich)
+[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/1863@statistisches-amt-kanton-zuerich)
 
 Auto generated R starter code for data set 1863@statistisches-amt-kanton-zuerich.
 

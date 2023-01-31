@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-01-30"
+date: "2023-01-31"
 output: html_document
 ---
 
@@ -8,7 +8,7 @@ output: html_document
 
 Kumulierte Anzahl der Todesfälle im Kanton Zürich pro Tag seit Pandemiebeginn nach Art des Sterbeorts: 'Pflege- oder Altersheim', 'zuhause', 'Spital'. Die Daten werden einmal wöchentlich (jeweils am Mittwoch) aktualisiert.
 
-[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/datasets/710@gesundheitsdirektion-kanton-zuerich)
+[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/710@gesundheitsdirektion-kanton-zuerich)
 
 Auto generated R starter code for data set 710@gesundheitsdirektion-kanton-zuerich.
 

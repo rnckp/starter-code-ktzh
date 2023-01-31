@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-01-30"
+date: "2023-01-31"
 output: html_document
 ---
 
@@ -8,7 +8,7 @@ output: html_document
 
 Für Schulbehörden, Schulleitungen, Schulverwaltungen und Lehrpersonen zusammengestellte Kontaktpersonen des Volksschulamts zu Primar- und Sekundarschulen und den Themen 'Personal', 'Lohn', 'Beratung' und 'Sonderpädagogik'.
 
-[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/datasets/735@volksschulamt-kanton-zuerich)
+[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/735@volksschulamt-kanton-zuerich)
 
 Auto generated R starter code for data set 735@volksschulamt-kanton-zuerich.
 

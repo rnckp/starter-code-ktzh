@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-01-30"
+date: "2023-01-31"
 output: html_document
 ---
 
@@ -8,7 +8,7 @@ output: html_document
 
 Jährlich aktualisierte Zeitreihen der kommunalen Abfallmengen nach Abfallarten und der Abfallgebühren nach Gemeinden. Mehr Info in den Beschreibungen der Ressourcen.
 
-[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/datasets/1803@awel-kanton-zuerich)
+[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/1803@awel-kanton-zuerich)
 
 Auto generated R starter code for data set 1803@awel-kanton-zuerich.
 

@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-01-30"
+date: "2023-01-31"
 output: html_document
 ---
 
@@ -8,7 +8,7 @@ output: html_document
 
 Durchschnittliche Bauinvestitionen der letzten 5 Jahre im Bereich Spital und Kultur (Bauinv. im Bereich Gesundheit, Unterricht, Kultur und Sport), in Franken pro Einwohner.
 
-[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/datasets/157@statistisches-amt-kanton-zuerich)
+[Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/157@statistisches-amt-kanton-zuerich)
 
 Auto generated R starter code for data set 157@statistisches-amt-kanton-zuerich.
 
