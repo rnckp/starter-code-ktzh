@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-02-01"
+date: "2023-02-02"
 output: html_document
 ---
 
@@ -15,9 +15,9 @@ Auto generated R starter code for data set 698@statistisches-amt-kanton-zuerich.
 ## Metadata
 
 - **Issued** `2020-08-24T00:00:00`
-- **Modified** `2023-01-01T04:28:08`
+- **Modified** `2023-02-01T04:28:59`
 - **Startdate** `2015-01-05`
-- **Enddate** `2022-12-23`
+- **Enddate** `2023-01-31`
 - **Theme** `['Volkswirtschaft']`
 - **Keyword** `['ogd']`
 - **Publisher** `['Statistisches Amt des Kantons Zürich']`
@@ -45,7 +45,7 @@ library(skimr)
 # Title                    : Anfragestatistik des Data Shop im Statistischen Amt des Kantons Zürich ab 2015
 # Description              : NA
 # Issued                   : 2022-12-02T12:18:50
-# Modified                 : 2023-01-25T10:24:42
+# Modified                 : 2023-02-01T05:28:58
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000698_00003668.csv')
@@ -55,7 +55,7 @@ df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_0000
 # Title                    : Anfragestatistik des Data Shop im Statistischen Amt des Kantons Zürich - kontrollierte Vokabulare
 # Description              : NA
 # Issued                   : 2022-12-19T13:20:10
-# Modified                 : 2023-01-01T05:28:15
+# Modified                 : 2023-02-01T05:28:59
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000698_00003669.csv')
