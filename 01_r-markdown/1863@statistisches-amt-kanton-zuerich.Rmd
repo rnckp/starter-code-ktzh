@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-02-16"
+date: "2023-02-17"
 output: html_document
 ---
 
@@ -16,9 +16,9 @@ Auto generated R starter code for data set 1863@statistisches-amt-kanton-zuerich
 ## Metadata
 
 - **Issued** `2022-11-25T09:02:55`
-- **Modified** `2023-02-15T09:10:39`
+- **Modified** `2023-02-16T09:30:55`
 - **Startdate** `2013-01-01`
-- **Enddate** `2023-02-15`
+- **Enddate** `2023-02-16`
 - **Theme** `['Energie']`
 - **Keyword** `['gemeinden', 'strom', 'stromverbrauch', 'ogd']`
 - **Publisher** `['Statistisches Amt des Kantons Zürich']`
@@ -46,7 +46,7 @@ library(skimr)
 # Title                    : Energieverbrauch als Bruttolastgang ab 2022
 # Description              : NA
 # Issued                   : 2022-11-25T09:02:55
-# Modified                 : 2023-02-15T10:10:40
+# Modified                 : 2023-02-16T10:30:56
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001863_00003562.csv')
