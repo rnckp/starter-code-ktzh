@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-02-17"
+date: "2023-02-18"
 output: html_document
 ---
 
@@ -16,9 +16,9 @@ Auto generated R starter code for data set 563@awel-kanton-zuerich.
 ## Metadata
 
 - **Issued** `2019-12-09T00:00:00`
-- **Modified** `2023-02-17T00:01:00`
+- **Modified** `2023-02-18T00:01:07`
 - **Startdate** `None`
-- **Enddate** `2023-02-16`
+- **Enddate** `2023-02-17`
 - **Theme** `['Raum, Umwelt']`
 - **Keyword** `['luft', 'lufttemperaturen', 'ogd']`
 - **Publisher** `['Amt für Abfall, Wasser, Energie und Luft des Kantons Zürich']`
@@ -46,7 +46,7 @@ library(skimr)
 # Title                    : LoRa-Sensor-Messwerte 2022/12
 # Description              : NA
 # Issued                   : 2022-12-02T00:00:59
-# Modified                 : 2023-02-16T17:06:02
+# Modified                 : 2023-02-17T10:08:18
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202212.csv')
@@ -56,7 +56,7 @@ df <- read_delim('https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_Lo
 # Title                    : LoRa-Sensor-Messwerte 2023/02
 # Description              : NA
 # Issued                   : 2023-02-16T14:58:06
-# Modified                 : 2023-02-17T01:00:59
+# Modified                 : 2023-02-18T01:01:06
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202302.csv')
@@ -66,7 +66,7 @@ df <- read_delim('https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_Lo
 # Title                    : LoRa-Sensor-Messwerte 2023/01
 # Description              : NA
 # Issued                   : 2023-02-16T16:06:05
-# Modified                 : 2023-02-16T16:06:05
+# Modified                 : 2023-02-17T10:08:20
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202301.csv')
