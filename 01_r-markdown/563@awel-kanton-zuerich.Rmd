@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-02-20"
+date: "2023-02-21"
 output: html_document
 ---
 
@@ -16,9 +16,9 @@ Auto generated R starter code for data set 563@awel-kanton-zuerich.
 ## Metadata
 
 - **Issued** `2019-12-09T00:00:00`
-- **Modified** `2023-02-20T00:01:05`
+- **Modified** `2023-02-21T00:01:39`
 - **Startdate** `None`
-- **Enddate** `2023-02-19`
+- **Enddate** `2023-02-20`
 - **Theme** `['Raum, Umwelt']`
 - **Keyword** `['luft', 'lufttemperaturen', 'ogd']`
 - **Publisher** `['Amt für Abfall, Wasser, Energie und Luft des Kantons Zürich']`
@@ -56,7 +56,7 @@ df <- read_delim('https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_Lo
 # Title                    : LoRa-Sensor-Messwerte 2023/02
 # Description              : NA
 # Issued                   : 2023-02-16T14:58:06
-# Modified                 : 2023-02-20T01:01:04
+# Modified                 : 2023-02-21T01:01:33
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202302.csv')
@@ -66,7 +66,7 @@ df <- read_delim('https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_Lo
 # Title                    : LoRa-Sensor-Messwerte 2023/01
 # Description              : NA
 # Issued                   : 2023-02-16T16:06:05
-# Modified                 : 2023-02-17T10:08:20
+# Modified                 : 2023-02-20T10:23:15
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202301.csv')
