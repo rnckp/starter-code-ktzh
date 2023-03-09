@@ -1,12 +1,12 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-03-08"
+date: "2023-03-09"
 output: html_document
 ---
 
 ## Dataset: Anfragestatistik des Data Shop im Statistischen Amt des Kantons Zürich ab 2015
 
-Die Abteilung «Data Shop» des Statistischen Amts ist die Anlaufstelle für alle Fragen zu statistischen Informationen. Das Team bewirtschaftet das statistische Grundangebot des Kanton Zürich und bietet Nutzenden kostenlose Auskunft und Beratung zu Anfragen per Telefon oder E-Mail. Seit 2015 werden Anfragen mit Metadaten erfasst und in einer Anfragenstatistik archiviert.
+Die Abteilung «Data» des Statistischen Amts ist die Anlaufstelle für alle Fragen zu statistischen Informationen. Das Team bewirtschaftet das statistische Grundangebot des Kanton Zürich und bietet Nutzenden kostenlose Auskunft und Beratung zu Anfragen per Telefon oder E-Mail. Seit 2015 werden Anfragen mit Metadaten erfasst und in einer Anfragenstatistik archiviert.
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/698@statistisches-amt-kanton-zuerich)
 
@@ -15,7 +15,7 @@ Auto generated R starter code for data set 698@statistisches-amt-kanton-zuerich.
 ## Metadata
 
 - **Issued** `2020-08-24T00:00:00`
-- **Modified** `2023-03-01T04:28:29`
+- **Modified** `2023-03-08T10:52:08`
 - **Startdate** `2015-01-05`
 - **Enddate** `2023-02-28`
 - **Theme** `['Volkswirtschaft']`
