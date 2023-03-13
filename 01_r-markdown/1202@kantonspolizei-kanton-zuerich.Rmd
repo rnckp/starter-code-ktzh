@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-03-12"
+date: "2023-03-13"
 output: html_document
 ---
 
@@ -41,6 +41,16 @@ library(skimr)
 ```{r}
 
 # Distribution 0
+# Ktzhdistid               : 2318
+# Title                    : Anzahl Straftaten nach Tatbestand und Bezirken
+# Description              : Anzahl Straftaten nach Tatbestand des StGB, AIG und BetmG seit 2009 nach Bezirken. Tatbestände werden nur in Jahren aufgeführt, in denen sie in Kraft waren. Die Unterscheidung zwischen versuchten und vollendeten Straftaten ist nur im Falle von Straftaten gegen das StGB möglich. Die Spalte Titel (und Reihenfolge_Titel) weist für StGB die Titel (und deren Reihenfolge) des 'Zweiten Buches: Besondere Bestimmungen' gemäss StGB, sowie für BetmG und AIG die Überkategorien (und deren Reihenfolge) gemäss Auswertungen im PKS Jahresbericht auf. Analog weist die Spalte Haupttitel (und Reihenfolge_Haupttitel) eine v.a. für die zahlreichen StGB-Titel generalisierte Kategorie der wichtigsten Titel und deren Reihenfolge auf.
+# Issued                   : 2022-03-10T13:54:15
+# Modified                 : 2023-03-12T15:45:03
+# Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
+
+df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001202_00002318.csv')
+
+# Distribution 1
 # Ktzhdistid               : 2319
 # Title                    : Anzahl beschuldigte Personen nach Tatbestandsgruppe im ganzen Kanton
 # Description              : Anzahl polizeilich beschuldigter Personen nach Tatbestandsgruppe (Haupttitel) des StGB seit 2009. Es wird in juristische und natürliche Personen und letztere in die Alterskategorien Minderjährige (<18) und Erwachsene unterteilt. Jede Person wird im Total StGB bzw. pro Tatbestandsgruppe nur einfach gezählt. Das Zusammenzählen von Personenzahlen über mehrere Tatbestandsgruppen hinweg ist nicht zulässig, da sich eine Person über die verschiedenen Einheiten wiederholen kann. Die Anzahl Beschuldigter lässt sich nicht direkt mit der Anzahl Straftaten vergleichen, da bei gewissen Straftaten mehrere Personen beschuldigt werden können. Die Spalte Haupttitel (und Reihenfolge_Haupttitel) weist eine generalisierte Kategorie der wichtigsten StGB-Titel und deren Reihenfolge auf.
@@ -50,22 +60,12 @@ library(skimr)
 
 df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001202_00002319.csv')
 
-# Distribution 1
-# Ktzhdistid               : 2318
-# Title                    : Anzahl Straftaten nach Tatbestand und Bezirken
-# Description              : Anzahl Straftaten nach Tatbestand des StGB, AIG und BetmG seit 2009 nach Bezirken. Tatbestände werden nur in Jahren aufgeführt, in denen sie in Kraft waren. Die Unterscheidung zwischen versuchten und vollendeten Straftaten ist nur im Falle von Straftaten gegen das StGB möglich. Die Spalte Titel (und Reihenfolge_Titel) weist für StGB die Titel (und deren Reihenfolge) des 'Zweiten Buches: Besondere Bestimmungen' gemäss StGB, sowie für BetmG und AIG die Überkategorien (und deren Reihenfolge) gemäss Auswertungen im PKS Jahresbericht auf. Analog weist die Spalte Haupttitel (und Reihenfolge_Haupttitel) eine v.a. für die zahlreichen StGB-Titel generalisierte Kategorie der wichtigsten Titel und deren Reihenfolge auf.
-# Issued                   : 2022-03-10T13:54:15
-# Modified                 : 2022-10-03T13:59:31
-# Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
-
-df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001202_00002318.csv')
-
 # Distribution 2
 # Ktzhdistid               : 2278
 # Title                    : Anzahl Straftaten nach Tatbestand ganzer Kanton
 # Description              : Anzahl Straftaten nach Tatbestand gegen StGB, BetmG und AIG seit 2009 auf Kantonsebene. Tatbestände werden nur in Jahren aufgeführt, in denen sie in Kraft waren. Die Unterscheidung zwischen versuchten und vollendeten Straftaten ist nur im Falle von Straftaten gegen das StGB möglich. Die Spalte Titel (und Reihenfolge_Titel) weist für StGB die Titel (und deren Reihenfolge) des Zweiten Buches: Besondere Bestimmungen gemäss StGB, sowie für BetmG und AIG die Überkategorien (und deren Reihenfolge) gemäss Auswertungen im PKS Jahresbericht auf. Analog weist die Spalte Haupttitel (und Reihenfolge_Haupttitel) eine v.a. für die zahlreichen StGB-Titel generalisierte Kategorie der wichtigsten Titel und deren Reihenfolge auf.
 # Issued                   : 2022-03-10T13:54:15
-# Modified                 : 2022-10-03T13:59:46
+# Modified                 : 2023-03-12T15:46:04
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001202_00002278.csv')
