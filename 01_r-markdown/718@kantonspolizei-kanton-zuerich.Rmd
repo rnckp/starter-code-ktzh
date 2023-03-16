@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-03-15"
+date: "2023-03-16"
 output: html_document
 ---
 
@@ -15,7 +15,7 @@ Auto generated R starter code for data set 718@kantonspolizei-kanton-zuerich.
 ## Metadata
 
 - **Issued** `2021-03-09T13:51:00`
-- **Modified** `2023-01-09T14:07:29`
+- **Modified** `2023-03-15T11:33:43`
 - **Startdate** `2011-01-01`
 - **Enddate** `2021-12-31`
 - **Theme** `['Gesundheit', 'Mobilität und Verkehr']`
@@ -45,7 +45,7 @@ library(skimr)
 # Title                    : Polizeilich registrierte Verkehrsunfälle im Kanton Zürich
 # Description              : Zu jedem Strassenverkehrsunfall sind der Unfallort (geokodiert), das Jahr, der Monat, der Wochentag, die Unfallstunde, die Strassenart, der Unfalltyp (ab 1. Juli 2015 inklusive Bagatellunfälle zB. Parkschäden), die Unfallbeteiligung ('Fussgänger', 'Velo (ohne E-Bikes)', 'Motorrad') und die Unfallschwerekategorie verfügbar. Detaillierte Definitionen der Variabeln sind in der Ressource "Minimales Geodatenmodell Strassenverkehrsunfallorte (ASTRA)" dokumentiert.
 # Issued                   : 2021-01-25T15:41:19
-# Modified                 : 2022-10-03T13:43:04
+# Modified                 : 2023-03-15T11:33:10
 # Rights                   : NonCommercialAllowed-CommercialAllowed-ReferenceRequired
 
 df <- read_delim('https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000718_00001783.csv')
