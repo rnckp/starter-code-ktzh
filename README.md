@@ -4,7 +4,7 @@
 
 This is an experiment to provide exactly this. 
 
-With this repo you get starter code for **all CSV data sets** (currently 396) that are available in the [data shop of the Statistical Office of Canton Zurich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/). 
+With this repo you get starter code for **all CSV data sets** (currently 397) that are available in the [data shop of the Statistical Office of Canton Zurich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/). 
 
 In the list below you find links to preconfigured code files so that you **immediately can start analyzing the data with R or Python.**
 
@@ -16,7 +16,7 @@ Feedback is always very welcome – simply open an issue.
 
 For all data licenses please refer to each data set's link or the metadata API endpoint provided [here](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/datasets/1461@fachstelle-ogd-kanton-zuerich).
 
-<sub>Latest update: **2023-03-22 03:36:01**<sub>
+<sub>Latest update: **2023-03-23 03:36:03**<sub>
 
 | ID | Title (abbreviated to 200 chars) | Python Colab | Python GitHub | R GitHub |
 | :-- | :-- | :-- | :-- | :-- |
@@ -416,3 +416,4 @@ For all data licenses please refer to each data set's link or the metadata API e
 | 1823 | [Beschäftigte der Stadt Winterthur](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/1823@stadt-winterthur) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rnckp/starter-code-ktzh/blob/main/02_python//1823@stadt-winterthur.ipynb) | [Python GitHub](https://github.com/rnckp/starter-code-ktzh/blob/main/02_python//1823@stadt-winterthur.ipynb) | [R GitHub](https://github.com/rnckp/starter-code-ktzh/blob/main/01_r-markdown//1823@stadt-winterthur.Rmd) |
 | 1863 | [Bruttolastgang elektrische Energie der Stadt Winterthur](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/1863@stadt-winterthur) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rnckp/starter-code-ktzh/blob/main/02_python//1863@stadt-winterthur.ipynb) | [Python GitHub](https://github.com/rnckp/starter-code-ktzh/blob/main/02_python//1863@stadt-winterthur.ipynb) | [R GitHub](https://github.com/rnckp/starter-code-ktzh/blob/main/01_r-markdown//1863@stadt-winterthur.Rmd) |
 | 1982 | [Verkehrsnachfrage im ÖV, MIV und im Veloverkehr nach Gemeinden und Regionen im Kanton Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/1982@afm-kanton-zuerich) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rnckp/starter-code-ktzh/blob/main/02_python//1982@afm-kanton-zuerich.ipynb) | [Python GitHub](https://github.com/rnckp/starter-code-ktzh/blob/main/02_python//1982@afm-kanton-zuerich.ipynb) | [R GitHub](https://github.com/rnckp/starter-code-ktzh/blob/main/01_r-markdown//1982@afm-kanton-zuerich.Rmd) |
+| 2042 | [Anzahl Einbrüche nach Gemeinden des Kantons Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/datasets/2042@kantonspolizei-kanton-zuerich) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rnckp/starter-code-ktzh/blob/main/02_python//2042@kantonspolizei-kanton-zuerich.ipynb) | [Python GitHub](https://github.com/rnckp/starter-code-ktzh/blob/main/02_python//2042@kantonspolizei-kanton-zuerich.ipynb) | [R GitHub](https://github.com/rnckp/starter-code-ktzh/blob/main/01_r-markdown//2042@kantonspolizei-kanton-zuerich.Rmd) |
