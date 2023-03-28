@@ -1,6 +1,6 @@
 ---
 title: "Open Government Data, provided by Canton Zurich"
-date: "2023-03-27"
+date: "2023-03-28"
 output: html_document
 ---
 
@@ -15,7 +15,7 @@ Auto generated R starter code for data set 1362@gesundheitsdirektion-kanton-zuer
 ## Metadata
 
 - **Issued** `2023-03-24T10:10:26`
-- **Modified** `2023-03-24T11:07:44`
+- **Modified** `2023-03-27T08:54:24`
 - **Startdate** `2020-01-01`
 - **Enddate** `2022-12-22`
 - **Theme** `['Land- und Forstwirtschaft', 'Gesundheit', 'Raum, Umwelt']`
@@ -87,4 +87,4 @@ tail(df)
 
 # Contact
 
-Gesundheitsdirektion des Kantons Zürich | Kantonales Labor | info@kl.zh.ch
+Gesundheitsdirektion des Kantons Zürich | Kantonales Labor | davi@kl.zh.ch
