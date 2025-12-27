@@ -6,7 +6,7 @@ This is an experiment to provide exactly this.
 
 With this repo you get starter code for **all CSV data sets** (currently 443) that are available in the [data shop of the Statistical Office of Canton Zurich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/). 
 
-In the list below you find links to preconfigured code files so that you **immediately can start analyzing the data with R or Python.**
+In the list below you find links to preconfigured code files so that you **can immediately start analyzing the data with R or Python.**
 
 **The Jupyter Notebooks can be opened directly in Google Colab.** 🚀
 
@@ -16,7 +16,7 @@ Feedback is always very welcome – simply open an issue.
 
 For all data licenses please refer to each data set's link or the metadata API endpoint provided [here](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html?keywords=ogd#/datasets/1461@fachstelle-ogd-kanton-zuerich).
 
-<sub>Latest update: **2025-12-27 03:52:37**<sub>
+<sub>Latest update: **2025-12-27 17:14:26**</sub>
 
 | ID | Title (abbreviated to 200 chars) | Python Colab | Python GitHub | R GitHub |
 | :-- | :-- | :-- | :-- | :-- |
