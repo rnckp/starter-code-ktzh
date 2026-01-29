@@ -10,7 +10,7 @@ Data is generated and validated daily using manual and automated procedures. Not
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/673@fachstelle-ogd-kanton-zuerich)
 
-Auto generated R starter code for data set 673@fachstelle-ogd-kanton-zuerich.
+Auto-generated R starter code for the dataset 673@fachstelle-ogd-kanton-zuerich.
 
 ## Metadata
 

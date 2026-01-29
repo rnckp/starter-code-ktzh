@@ -10,7 +10,7 @@ Gebäude und Wohnungen im Kanton Zürich gemäss eidgenössischem Gebäude- und 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2022@fachstelle-ogd-kanton-zuerich)
 
-Auto generated R starter code for data set 2022@fachstelle-ogd-kanton-zuerich.
+Auto-generated R starter code for the dataset 2022@fachstelle-ogd-kanton-zuerich.
 
 ## Metadata
 

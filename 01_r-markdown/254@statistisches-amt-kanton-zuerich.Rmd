@@ -10,7 +10,7 @@ Anzahl der Bevölkerung nach zivilrechtlichem Wohnsitz nach 1-Jahres Altersklass
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/254@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 254@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 254@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

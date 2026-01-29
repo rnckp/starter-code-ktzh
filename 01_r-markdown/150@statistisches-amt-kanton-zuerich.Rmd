@@ -10,7 +10,7 @@ Der Motorisierungsgrad ist die Anzahl der eingelösten Personenwagen am 30. Sept
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/150@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 150@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 150@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

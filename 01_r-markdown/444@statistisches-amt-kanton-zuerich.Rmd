@@ -10,7 +10,7 @@ Parteiparolen von kantonalzürcher Parteien mit Einsitz im Zürcher Kantonsrat z
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/444@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 444@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 444@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

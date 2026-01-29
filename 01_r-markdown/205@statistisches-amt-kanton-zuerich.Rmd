@@ -10,7 +10,7 @@ Veränderung der Einwohnerzahl (zivilrechtlicher Wohnsitz) innerhalb von 5 Jahre
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/205@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 205@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 205@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

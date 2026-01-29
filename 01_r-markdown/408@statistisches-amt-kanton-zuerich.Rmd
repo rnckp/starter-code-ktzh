@@ -10,7 +10,7 @@ Anzahl Quellensteuerpflichtige, welche nur an der Quelle besteuert sind
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/408@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 408@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 408@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

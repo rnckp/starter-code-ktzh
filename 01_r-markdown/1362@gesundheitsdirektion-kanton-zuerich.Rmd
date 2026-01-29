@@ -10,7 +10,7 @@ Konzentrationsbereiche zur Trinkwasserqualität für verschiedene Analyten aus d
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1362@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 1362@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 1362@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

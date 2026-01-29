@@ -10,7 +10,7 @@ Anteil der Personenwagen (PW) mit Elektromotor an allen am 30. September eingel√
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/683@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 683@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 683@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

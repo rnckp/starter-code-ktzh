@@ -10,7 +10,7 @@ Sämtliche Beiträge der Kulturförderung der Stadt Uster ab 2018. Daten enthalt
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/721@stadt-uster)
 
-Auto generated R starter code for data set 721@stadt-uster.
+Auto-generated R starter code for the dataset 721@stadt-uster.
 
 ## Metadata
 

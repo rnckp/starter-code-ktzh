@@ -10,7 +10,7 @@ Anzahl Scheidungen. Hinweise: Am 1.Januar 2000 trat das neue Scheidungsrecht in 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/309@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 309@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 309@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

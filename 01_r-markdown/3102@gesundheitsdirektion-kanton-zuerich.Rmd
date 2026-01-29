@@ -11,7 +11,7 @@ Die Daten beziehen sich ausschließlich auf die Alters- und Pflegeheime im Kanto
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3102@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 3102@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 3102@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

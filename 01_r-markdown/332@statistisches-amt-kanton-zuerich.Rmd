@@ -10,7 +10,7 @@ Bodenpreismodell: Median der Modellpreise von unbebautem Land der Wohn- und Misc
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/332@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 332@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 332@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

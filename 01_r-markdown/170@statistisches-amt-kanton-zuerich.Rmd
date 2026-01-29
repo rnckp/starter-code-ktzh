@@ -10,7 +10,7 @@ Finanzvermögen pro Einwohner. Das Finanzvermögen besteht beispielsweise aus fl
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/170@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 170@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 170@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

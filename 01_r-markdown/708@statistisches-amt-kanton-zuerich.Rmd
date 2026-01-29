@@ -10,7 +10,7 @@ Die Steuerstatistik zu den juristischen Personen umfasst Statistiken zu den Steu
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/708@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 708@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 708@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

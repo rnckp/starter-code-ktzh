@@ -10,7 +10,7 @@ Anzahl und Anteil Beschäftigte pro Einwohner:innen. Eine vollständige Dokument
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1621@stadt-winterthur)
 
-Auto generated R starter code for data set 1621@stadt-winterthur.
+Auto-generated R starter code for the dataset 1621@stadt-winterthur.
 
 ## Metadata
 

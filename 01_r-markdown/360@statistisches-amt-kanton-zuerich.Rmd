@@ -10,7 +10,7 @@ Anteil stehender und fliessender Gewässer an der Gesamtfläche ohne Zürichsee 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/360@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 360@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 360@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

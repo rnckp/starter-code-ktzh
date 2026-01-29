@@ -10,7 +10,7 @@ Die Daten weisen für die verschiedenen erneuerbaren Energieträger aus, wie vie
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1681@awel-kanton-zuerich)
 
-Auto generated R starter code for data set 1681@awel-kanton-zuerich.
+Auto-generated R starter code for the dataset 1681@awel-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Punktfläche pro Gemeinde; das Kantonstotal inkl. Greifensee (829 ha) und Züric
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/179@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 179@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 179@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

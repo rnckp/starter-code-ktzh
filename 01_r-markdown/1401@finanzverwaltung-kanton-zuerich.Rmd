@@ -10,7 +10,7 @@ Die Staatsquote entspricht den «konsolidierten Gesamtausgaben» in Prozent des 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1401@finanzverwaltung-kanton-zuerich)
 
-Auto generated R starter code for data set 1401@finanzverwaltung-kanton-zuerich.
+Auto-generated R starter code for the dataset 1401@finanzverwaltung-kanton-zuerich.
 
 ## Metadata
 

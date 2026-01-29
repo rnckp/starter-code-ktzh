@@ -10,7 +10,7 @@ Anteil 1 Zi.-Wohnungen am Wohnungsbestand. Wohnungsbestand gemäss GWS. Wohnungs
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/235@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 235@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 235@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Im Rahmen des Impulsprojekts 3.1 "Strategie Datenmanagement und Data-Governance"
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/700@fachstelle-ogd-kanton-zuerich)
 
-Auto generated R starter code for data set 700@fachstelle-ogd-kanton-zuerich.
+Auto-generated R starter code for the dataset 700@fachstelle-ogd-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Anzahl Grosse Betriebe mit einer Beschäftigung von 250 Vollzeitäquivalenten od
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/339@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 339@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 339@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

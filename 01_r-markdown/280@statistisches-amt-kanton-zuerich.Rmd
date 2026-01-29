@@ -10,7 +10,7 @@ Einwohnerbestand Frauen nach zivilrechtlichem Wohnsitz (ab 2010 inkl. vorläufig
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/280@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 280@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 280@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

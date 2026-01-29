@@ -10,7 +10,7 @@ Anteil Haushalte mit 6 und mehr Personen an allen Privathaushalten
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/374@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 374@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 374@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

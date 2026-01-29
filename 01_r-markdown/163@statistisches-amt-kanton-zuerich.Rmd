@@ -10,7 +10,7 @@ Selbstfinanzierung pro Einwohner. Die Selbstfinanzierung entspricht der Summe de
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/163@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 163@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 163@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

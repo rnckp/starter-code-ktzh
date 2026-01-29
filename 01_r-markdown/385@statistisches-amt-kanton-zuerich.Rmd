@@ -10,7 +10,7 @@ Leerstehende Wohnungen am 1. Juni des Erhebungsjahres
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/385@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 385@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 385@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

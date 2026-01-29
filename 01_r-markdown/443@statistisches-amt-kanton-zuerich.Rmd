@@ -10,7 +10,7 @@ Abstimmungsempfehlungen des Zürcher Regierungs- und Kantonsrats zu kantonalen A
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/443@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 443@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 443@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

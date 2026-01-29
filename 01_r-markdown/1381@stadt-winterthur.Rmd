@@ -10,7 +10,7 @@ Altersstruktur der Bevölkerung der Stadt Winterthur ab 2009, Endjahresstand 31.
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1381@stadt-winterthur)
 
-Auto generated R starter code for data set 1381@stadt-winterthur.
+Auto-generated R starter code for the dataset 1381@stadt-winterthur.
 
 ## Metadata
 

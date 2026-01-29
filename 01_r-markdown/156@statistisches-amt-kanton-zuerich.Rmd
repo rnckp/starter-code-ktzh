@@ -10,7 +10,7 @@ Durchschnittliche Bauinvestitionen im Bereich Wohnen (Bauinv. für EFH, MFH, and
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/156@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 156@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 156@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

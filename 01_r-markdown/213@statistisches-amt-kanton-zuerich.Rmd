@@ -11,7 +11,7 @@ Geburten minus Sterbefälle, pro 1000 Einw. im Fünfjahresmittel. Beispiel: Die 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/213@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 213@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 213@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

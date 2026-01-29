@@ -10,7 +10,7 @@ Der Bruttolastgang entspricht der im Netzgebiet der EKZ (Elektrizitätswerke des
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2242@ekz)
 
-Auto generated R starter code for data set 2242@ekz.
+Auto-generated R starter code for the dataset 2242@ekz.
 
 ## Metadata
 

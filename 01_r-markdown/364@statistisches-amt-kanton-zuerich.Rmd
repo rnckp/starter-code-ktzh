@@ -10,7 +10,7 @@ Grundlage für die Berechnung des MIV-Anteils sind die modellierten MIV-Wege des
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/364@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 364@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 364@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

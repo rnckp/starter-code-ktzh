@@ -10,7 +10,7 @@ Anteil der im Bereich Beherbergung/Gastgewerbe Beschäftigten (ohne Gastronomie)
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/19@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 19@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 19@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

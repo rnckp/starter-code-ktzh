@@ -10,7 +10,7 @@ Anzahl Ausländer, die im Kalenderjahr das Schweizer Bürgerrecht erwerben. Hinw
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/209@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 209@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 209@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

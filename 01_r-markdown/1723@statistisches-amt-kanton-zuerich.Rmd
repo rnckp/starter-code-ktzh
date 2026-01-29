@@ -10,7 +10,7 @@ Anzahl Wohnungen in Gebäuden, die dem gemeinnützigen Sektor zuzuordnen sind. D
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1723@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 1723@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 1723@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Selbstfinanzierung in Prozenten der Nettoinvestitionen. Ausmass, in dem die Neui
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/6@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 6@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 6@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

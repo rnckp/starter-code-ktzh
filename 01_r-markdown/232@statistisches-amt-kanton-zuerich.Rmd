@@ -10,7 +10,7 @@ Total neu erstellte Wohnungen
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/232@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 232@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 232@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

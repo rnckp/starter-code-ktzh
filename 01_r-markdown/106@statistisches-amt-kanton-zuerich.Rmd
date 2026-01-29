@@ -10,7 +10,7 @@ Anteil 65-79-Jähriger an der Gesamtbevölkerung nach zivilrechtlichem Wohnsitz(
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/106@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 106@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 106@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -14,7 +14,7 @@ Für das Jahr 2024 liegen keine Zahlen vor.
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/334@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 334@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 334@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

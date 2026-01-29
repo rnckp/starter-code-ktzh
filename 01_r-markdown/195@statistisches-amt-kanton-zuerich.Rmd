@@ -10,7 +10,7 @@ Steuerertrag juristische Personen (Nettoertrag Rechnungsjahr).
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/195@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 195@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 195@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

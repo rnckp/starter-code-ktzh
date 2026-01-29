@@ -10,7 +10,7 @@ Anzahl Restaurants, Imbissstuben, Tea-Rooms und Gelaterias inkl. Restaurants mit
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/59@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 59@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 59@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Anzahl Hotels im Juni des Erhebungsjahres. Daten des aktuellsten Jahres sind pro
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/58@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 58@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 58@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

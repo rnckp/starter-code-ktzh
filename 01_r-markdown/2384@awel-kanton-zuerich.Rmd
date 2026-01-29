@@ -10,7 +10,7 @@ Der vorliegende Datensatz ist das Ergebnis eines Messprojektes von OSTLUFT - der
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2384@awel-kanton-zuerich)
 
-Auto generated R starter code for data set 2384@awel-kanton-zuerich.
+Auto-generated R starter code for the dataset 2384@awel-kanton-zuerich.
 
 ## Metadata
 

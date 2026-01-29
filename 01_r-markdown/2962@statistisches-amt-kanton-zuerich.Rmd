@@ -10,7 +10,7 @@ Warenimporte in den und -exporte aus dem Kanton Zürich in CHF pro Land und Güt
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2962@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 2962@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 2962@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

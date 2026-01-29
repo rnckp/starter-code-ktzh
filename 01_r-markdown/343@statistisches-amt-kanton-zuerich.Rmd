@@ -10,7 +10,7 @@ Beschäftigung des Primärsektors (Land- und Forstwirtschaft) in Vollzeitäquiva
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/343@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 343@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 343@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

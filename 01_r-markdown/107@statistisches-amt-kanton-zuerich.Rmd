@@ -10,7 +10,7 @@ Approximatives Gebäudevolumen von Wohnbauten (exkl. Anteil Fremdnutzungen in Wo
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/107@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 107@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 107@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

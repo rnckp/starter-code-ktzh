@@ -10,7 +10,7 @@ Bestand der wirtschaftlichen Wohnbevölkerung nach Heimat (Schweiz/Ausland), Ges
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2605@stadt-winterthur)
 
-Auto generated R starter code for data set 2605@stadt-winterthur.
+Auto-generated R starter code for the dataset 2605@stadt-winterthur.
 
 ## Metadata
 

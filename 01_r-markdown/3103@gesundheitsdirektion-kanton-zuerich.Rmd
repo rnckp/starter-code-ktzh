@@ -12,7 +12,7 @@ Die Daten beziehen sich ausschliesslich auf Spitex-Leistungen im Kanton Zürich 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3103@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 3103@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 3103@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

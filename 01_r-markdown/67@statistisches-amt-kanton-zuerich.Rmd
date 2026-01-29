@@ -10,7 +10,7 @@ Veränderung der Einwohnerzahl (zivilrechtlicher Wohnsitz) gegenüber dem Vorjah
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/67@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 67@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 67@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

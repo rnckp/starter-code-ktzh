@@ -10,7 +10,7 @@ Bruttoaufwand - Bruttoertrag (der Laufenden Rechnung). Aussage: Durch Steuern zu
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/161@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 161@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 161@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Durchschnittliche Haushaltsgrösse von Privathaushalten der ständigen Wohnbevö
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/371@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 371@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 371@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Bruttoschulden in Prozent vom laufenden Ertrag. Der Bruttoverschuldungsanteil is
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/112@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 112@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 112@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

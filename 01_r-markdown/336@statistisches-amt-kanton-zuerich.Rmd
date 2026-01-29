@@ -10,7 +10,7 @@ Anzahl Mikrobetriebe mit einer Beschäftigung von weniger als 10 Vollzeitäquiva
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/336@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 336@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 336@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Aerzte mit Hauptberufstätigkeit im Ambulanten Sektor. Bis 2008: Ärzte mit eige
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/133@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 133@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 133@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

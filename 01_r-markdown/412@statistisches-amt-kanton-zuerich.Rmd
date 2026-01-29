@@ -10,7 +10,7 @@ Total natürliche Personen mit Kirchensteuerpflicht
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/412@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 412@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 412@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

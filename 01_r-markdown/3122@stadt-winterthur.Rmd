@@ -10,7 +10,7 @@ Der Lastgang entspricht der elektrischen Energie die von Energieerzeugungsanlage
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3122@stadt-winterthur)
 
-Auto generated R starter code for data set 3122@stadt-winterthur.
+Auto-generated R starter code for the dataset 3122@stadt-winterthur.
 
 ## Metadata
 

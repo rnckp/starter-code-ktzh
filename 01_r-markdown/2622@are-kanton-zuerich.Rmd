@@ -10,7 +10,7 @@ Mit der Nutzungsdichte wird aufgezeigt, wie viele Einwohner und Beschäftige pro
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2622@are-kanton-zuerich)
 
-Auto generated R starter code for data set 2622@are-kanton-zuerich.
+Auto-generated R starter code for the dataset 2622@are-kanton-zuerich.
 
 ## Metadata
 

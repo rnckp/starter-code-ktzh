@@ -10,7 +10,7 @@ Anteil Wohneigentumsobjekte gemessen am Wohnungsbestand des Erhebungsjahres. Der
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/353@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 353@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 353@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

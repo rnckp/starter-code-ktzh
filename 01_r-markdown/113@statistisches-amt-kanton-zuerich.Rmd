@@ -10,7 +10,7 @@ Bruttoinvestitionen in Prozent der Gesamtausgaben. Der Investitionsanteil zeigt 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/113@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 113@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 113@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

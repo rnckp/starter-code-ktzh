@@ -10,7 +10,7 @@ Monatliche Nutzungsstatistiken (Anzahl Besuche) der Open Government Data (OGD) M
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/715@fachstelle-ogd-kanton-zuerich)
 
-Auto generated R starter code for data set 715@fachstelle-ogd-kanton-zuerich.
+Auto-generated R starter code for the dataset 715@fachstelle-ogd-kanton-zuerich.
 
 ## Metadata
 

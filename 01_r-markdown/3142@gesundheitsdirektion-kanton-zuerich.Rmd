@@ -11,7 +11,7 @@ Die Daten beinhalten ausschliesslich die Leistungen von selbstständig erwerbend
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3142@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 3142@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 3142@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

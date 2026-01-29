@@ -10,7 +10,7 @@ Der Datensatz enthält Informationen zur Entwicklung des jährlichen Naturschutz
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2643@aln-kanton-zuerich)
 
-Auto generated R starter code for data set 2643@aln-kanton-zuerich.
+Auto-generated R starter code for the dataset 2643@aln-kanton-zuerich.
 
 ## Metadata
 

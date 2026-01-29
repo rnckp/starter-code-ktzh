@@ -10,7 +10,7 @@ Anteil der juristischen Personen an den allg. Gemeindesteuern (Nettoertrag Rechn
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/23@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 23@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 23@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

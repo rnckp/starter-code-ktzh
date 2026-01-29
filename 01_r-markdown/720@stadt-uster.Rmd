@@ -10,7 +10,7 @@ Quartierkästen sind Schaukästen, in denen Informationsmaterial ausgehängt wir
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/720@stadt-uster)
 
-Auto generated R starter code for data set 720@stadt-uster.
+Auto-generated R starter code for the dataset 720@stadt-uster.
 
 ## Metadata
 

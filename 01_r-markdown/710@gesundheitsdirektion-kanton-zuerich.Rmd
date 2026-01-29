@@ -10,7 +10,7 @@ Kumulierte Anzahl der Todesfälle im Kanton Zürich pro Tag seit Pandemiebeginn 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/710@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 710@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 710@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Anzahl Personen, die pro Kalenderwoche aus einem Gebiet mit erhöhtem Infektions
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/699@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 699@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 699@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Anzahl zugezogene Personen. Hinweis: Ab 2011 Wechsel des Produktionsverfahrens u
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/203@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 203@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 203@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

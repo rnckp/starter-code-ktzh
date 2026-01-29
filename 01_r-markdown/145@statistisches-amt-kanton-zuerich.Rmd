@@ -10,7 +10,7 @@ Durchschnittliche Bauinvestitionen der letzten 5 Jahre im Bereich Industrie und 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/145@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 145@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 145@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

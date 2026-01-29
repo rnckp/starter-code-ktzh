@@ -10,7 +10,7 @@ Anzahl der Neubau- und Abbruchwohnungen sowie des Wohnbausaldos pro Gemeinde sow
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2922@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 2922@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 2922@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

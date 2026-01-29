@@ -10,7 +10,7 @@ Berichtigte Steuerkraft (Steuerkraft nach Finanzausgleich): arithm. Mittel der l
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/197@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 197@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 197@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

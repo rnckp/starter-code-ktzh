@@ -11,7 +11,7 @@ Der Datensatz wurde bis zum 02.05.2023 aktualisiert
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/706@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 706@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 706@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

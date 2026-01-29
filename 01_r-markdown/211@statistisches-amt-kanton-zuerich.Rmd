@@ -10,7 +10,7 @@ Die Sekundarstufe II umfasst die Berufsbildung und bei Mittelschulen die Normsch
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/211@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 211@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 211@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

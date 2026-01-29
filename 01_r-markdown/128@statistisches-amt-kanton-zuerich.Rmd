@@ -12,7 +12,7 @@ Jährlich aktualisiert wird nur die Ressource "Anzahl Leerwohnungen pro Gemeinde
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/128@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 128@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 128@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

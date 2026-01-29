@@ -10,7 +10,7 @@ Anzahl verkaufter Einfamilienhäuser (EFH). Die letzten drei Jahre sind provisor
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/35@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 35@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 35@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

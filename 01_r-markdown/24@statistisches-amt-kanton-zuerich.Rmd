@@ -10,7 +10,7 @@ Anteil natürlicher Personen an den allg. Gemeindesteuern (Nettoertrag Rechnungs
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/24@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 24@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 24@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

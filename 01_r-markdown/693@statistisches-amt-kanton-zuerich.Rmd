@@ -10,7 +10,7 @@ Ergebnisse der Erneuerungswahlen der zürcherischen Mitglieder des Nationalrates
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/693@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 693@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 693@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

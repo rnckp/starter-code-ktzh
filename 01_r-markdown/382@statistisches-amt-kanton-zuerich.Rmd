@@ -10,7 +10,7 @@ Anteil Siedlungsfläche (ohne Verkehrsfläche) an der Gesamtfläche. Die Arealst
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/382@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 382@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 382@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

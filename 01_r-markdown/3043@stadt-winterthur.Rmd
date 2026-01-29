@@ -10,7 +10,7 @@ Der Datensatz beinhaltet die Messergebnisse der Zählstellen für Velos im Stadt
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3043@stadt-winterthur)
 
-Auto generated R starter code for data set 3043@stadt-winterthur.
+Auto-generated R starter code for the dataset 3043@stadt-winterthur.
 
 ## Metadata
 

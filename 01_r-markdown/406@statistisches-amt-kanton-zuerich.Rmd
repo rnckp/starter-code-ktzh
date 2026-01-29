@@ -10,7 +10,7 @@ Anzahl ordentlich besteuerte natürliche Personen, welche auch an der Quelle bes
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/406@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 406@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 406@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

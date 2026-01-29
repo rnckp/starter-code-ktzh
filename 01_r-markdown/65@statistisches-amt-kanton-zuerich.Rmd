@@ -10,7 +10,7 @@ Anteil landwirtschaftliche Nutzfläche an der Gesamtfläche.Die Arealstatistiken
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/65@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 65@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 65@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Anzahl Beschäftigte des Primär-, des Sekundär- und des Tertiärsektors in Vol
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/347@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 347@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 347@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

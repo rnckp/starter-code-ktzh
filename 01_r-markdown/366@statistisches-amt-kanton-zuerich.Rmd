@@ -10,7 +10,7 @@ Modelliertes Verkehrsaufkommen als Summe aller ÖV-Personenwege im Quell-, Ziel-
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/366@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 366@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 366@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

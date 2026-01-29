@@ -10,7 +10,7 @@ Ausländeranteil in Prozent der Gesamtbevölkerung (zivilrechtlicher Wohnsitz; a
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/68@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 68@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 68@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

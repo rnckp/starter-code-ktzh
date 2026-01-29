@@ -10,7 +10,7 @@ Der Datensatz enthält Informationen (insbesondere offizielle Codes und Namen) z
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3082@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 3082@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 3082@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

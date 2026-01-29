@@ -10,7 +10,7 @@ Bevölkerung nach Bezirk, Region, Geschlecht und Alter, nach zivilrechtlichem Wo
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/705@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 705@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 705@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

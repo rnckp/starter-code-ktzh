@@ -11,7 +11,7 @@ Der Datensatz wird täglich aktualisiert und umfasst alle für die Standorte gü
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2142@stadt-winterthur)
 
-Auto generated R starter code for data set 2142@stadt-winterthur.
+Auto-generated R starter code for the dataset 2142@stadt-winterthur.
 
 ## Metadata
 

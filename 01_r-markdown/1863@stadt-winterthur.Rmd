@@ -11,7 +11,7 @@ Die Daten werden über das ganze Jahr der Winterzeit in der Zeitzone (CET) als D
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1863@stadt-winterthur)
 
-Auto generated R starter code for data set 1863@stadt-winterthur.
+Auto-generated R starter code for the dataset 1863@stadt-winterthur.
 
 ## Metadata
 

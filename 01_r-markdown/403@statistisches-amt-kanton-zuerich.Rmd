@@ -10,7 +10,7 @@ Anzahl Personalsteuerpflichtige
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/403@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 403@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 403@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

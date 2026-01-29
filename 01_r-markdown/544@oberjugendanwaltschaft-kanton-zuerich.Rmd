@@ -10,7 +10,7 @@ Begehen Jugendliche zwischen dem 10. und 18. Lebensjahr ein Delikt, gilt für si
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/544@oberjugendanwaltschaft-kanton-zuerich)
 
-Auto generated R starter code for data set 544@oberjugendanwaltschaft-kanton-zuerich.
+Auto-generated R starter code for the dataset 544@oberjugendanwaltschaft-kanton-zuerich.
 
 ## Metadata
 

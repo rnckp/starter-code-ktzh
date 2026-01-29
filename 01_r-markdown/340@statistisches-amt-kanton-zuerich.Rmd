@@ -10,7 +10,7 @@ Anzahl Beschäftigte des Primärsektors (Land- und Forstwirtschaft). Aktuellstes
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/340@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 340@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 340@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

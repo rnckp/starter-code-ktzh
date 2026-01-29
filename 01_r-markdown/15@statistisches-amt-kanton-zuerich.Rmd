@@ -10,7 +10,7 @@ Anteil unproduktiver Fläche (ohne Gewässerfläche). Die Arealstatistiken werde
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/15@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 15@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 15@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Der "Remote Sensing Detector" (RSD) ermöglicht berührungsfreie Messungen von A
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2382@awel-kanton-zuerich)
 
-Auto generated R starter code for data set 2382@awel-kanton-zuerich.
+Auto-generated R starter code for the dataset 2382@awel-kanton-zuerich.
 
 ## Metadata
 

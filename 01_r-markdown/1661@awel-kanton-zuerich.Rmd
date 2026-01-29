@@ -10,7 +10,7 @@ Die Stromdaten stammen von der Eidgenössischen Elektrizitätskommission (ElCom)
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1661@awel-kanton-zuerich)
 
-Auto generated R starter code for data set 1661@awel-kanton-zuerich.
+Auto-generated R starter code for the dataset 1661@awel-kanton-zuerich.
 
 ## Metadata
 

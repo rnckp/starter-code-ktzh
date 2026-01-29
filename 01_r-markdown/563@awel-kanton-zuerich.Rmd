@@ -11,7 +11,7 @@ Der hier verfügbare Datensatz wird ab dem Jahr 2025 unregelmässig aktualisiert
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/563@awel-kanton-zuerich)
 
-Auto generated R starter code for data set 563@awel-kanton-zuerich.
+Auto-generated R starter code for the dataset 563@awel-kanton-zuerich.
 
 ## Metadata
 

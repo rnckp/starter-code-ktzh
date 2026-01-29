@@ -10,7 +10,7 @@ Anteil der Personenwagen (PW) mit Benzinmotor an allen Personenwagen, die zwisch
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/685@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 685@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 685@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

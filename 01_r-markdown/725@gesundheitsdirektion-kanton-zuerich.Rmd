@@ -10,7 +10,7 @@ Erfolgte Impfungen im Kanton Zürich. Die Daten der ersten Wochen der Impfkampag
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/725@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 725@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 725@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Anteil 6+ Zi.-Wohnungen am Wohnungsbestand. Wohnungsbestand gemäss GWS. Wohnung
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/241@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 241@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 241@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

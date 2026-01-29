@@ -10,7 +10,7 @@ Jahresergebnis Erfolgsrechnung. Ertragsüberschuss (positives Vorzeichen) oder A
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/400@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 400@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 400@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

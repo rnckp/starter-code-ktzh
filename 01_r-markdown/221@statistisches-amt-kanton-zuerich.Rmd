@@ -10,7 +10,7 @@ Durchschnittliche Zahl von Sterbefällen im Fünfjahresmittel pro 1000 Einw. Bei
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/221@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 221@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 221@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

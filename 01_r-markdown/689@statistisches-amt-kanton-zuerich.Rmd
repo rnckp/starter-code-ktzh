@@ -10,7 +10,7 @@ Anteil der Personenwagen (PW) mit anderem Antrieb an allen Personenwagen, die zw
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/689@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 689@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 689@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

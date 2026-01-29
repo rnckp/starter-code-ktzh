@@ -10,7 +10,7 @@ Bei der Geburt wird der Vorname amtlich registriert. Der Datensatz enthält die 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3002@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 3002@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 3002@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Nettozinsaufwand in Prozent vom laufenden Ertrag. Der Zinsbelastungsanteil zeigt
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 3@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 3@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

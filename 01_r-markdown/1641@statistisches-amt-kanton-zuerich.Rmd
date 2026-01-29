@@ -10,7 +10,7 @@ Liste aller Verwaltungseinheiten und -abteilungen (inkl. 'Publisher-Suffix' = UR
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1641@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 1641@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 1641@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

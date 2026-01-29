@@ -10,7 +10,7 @@ Bestand der wirtschaftlichen Wohnbevölkerung nach Staatenkleingruppe und Quarti
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2604@stadt-winterthur)
 
-Auto generated R starter code for data set 2604@stadt-winterthur.
+Auto-generated R starter code for the dataset 2604@stadt-winterthur.
 
 ## Metadata
 

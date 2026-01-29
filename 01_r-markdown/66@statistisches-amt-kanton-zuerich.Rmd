@@ -10,7 +10,7 @@ Anteil bestockte Fläche (Wald, Gehölze) an der Gesamtfläche. Die Arealstatist
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/66@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 66@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 66@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

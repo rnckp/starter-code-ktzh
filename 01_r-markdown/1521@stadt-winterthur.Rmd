@@ -10,7 +10,7 @@ Dieser Datensatz wird nicht mehr weitergeführt (discontinued). Als Alternative 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1521@stadt-winterthur)
 
-Auto generated R starter code for data set 1521@stadt-winterthur.
+Auto-generated R starter code for the dataset 1521@stadt-winterthur.
 
 ## Metadata
 

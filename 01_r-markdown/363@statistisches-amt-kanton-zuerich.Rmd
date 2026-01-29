@@ -10,7 +10,7 @@ Grundlage für die Berechnung des ÖV-Anteils sind die modellierten ÖV-Wege des
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/363@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 363@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 363@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

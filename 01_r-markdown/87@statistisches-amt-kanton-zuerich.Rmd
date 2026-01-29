@@ -10,7 +10,7 @@ Frauenanteil in Prozent der Gesamtbevölkerung (zivilrechtlicher Wohnsitz; ab 20
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/87@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 87@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 87@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

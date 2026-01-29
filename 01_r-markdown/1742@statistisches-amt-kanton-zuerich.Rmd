@@ -10,7 +10,7 @@ Wöchentlich aktualisierte Informationen zu den im Firmenzentralregister (Zefix)
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1742@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 1742@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 1742@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

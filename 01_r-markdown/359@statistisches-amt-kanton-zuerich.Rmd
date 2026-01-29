@@ -10,7 +10,7 @@ Anzahl Hotelbetten pro 1000 Einwohner (Bevölkerungsbestand Ende des Vorjahr); H
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/359@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 359@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 359@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Echtzeitresultate und -wahlbeteiligungen der Erneuerungswahl der zürcherischen 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2202@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 2202@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 2202@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Anteil der Personenwagen (PW) mit Dieselmotor an allen am 30. September eingelö
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/681@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 681@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 681@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

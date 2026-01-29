@@ -10,7 +10,7 @@ Durchschnittliche Bauinvestitionen der letzten 5 Jahre im Bereich Dienstleistung
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/143@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 143@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 143@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

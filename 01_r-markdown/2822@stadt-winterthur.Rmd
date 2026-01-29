@@ -10,7 +10,7 @@ Schutz & Intervention Winterthur veröffentlicht seit 2019 sämtliche Feuerwehr-
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2822@stadt-winterthur)
 
-Auto generated R starter code for data set 2822@stadt-winterthur.
+Auto-generated R starter code for the dataset 2822@stadt-winterthur.
 
 ## Metadata
 

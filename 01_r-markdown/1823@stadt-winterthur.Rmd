@@ -10,7 +10,7 @@ Beschäftigte der Stadt Winterthur ab 2018, Stand Ende Quartal des Jahres. Quell
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1823@stadt-winterthur)
 
-Auto generated R starter code for data set 1823@stadt-winterthur.
+Auto-generated R starter code for the dataset 1823@stadt-winterthur.
 
 ## Metadata
 

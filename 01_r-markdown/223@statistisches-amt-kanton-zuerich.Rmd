@@ -10,7 +10,7 @@ Zuzüge minus Wegzüge (ohne Umzüge innerhalb der Gemeinden). Hinweis: Ab 2011 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/223@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 223@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 223@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

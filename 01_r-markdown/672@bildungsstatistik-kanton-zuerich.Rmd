@@ -12,7 +12,7 @@ Publiziert sind die gymnasiale Maturitätsquoten ab dem Gemeindestand von 2014 (
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/672@bildungsstatistik-kanton-zuerich)
 
-Auto generated R starter code for data set 672@bildungsstatistik-kanton-zuerich.
+Auto-generated R starter code for the dataset 672@bildungsstatistik-kanton-zuerich.
 
 ## Metadata
 

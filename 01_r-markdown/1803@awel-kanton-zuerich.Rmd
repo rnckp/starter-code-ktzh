@@ -10,7 +10,7 @@ Jährlich aktualisierte Zeitreihen der kommunalen Abfallmengen nach Abfallarten 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1803@awel-kanton-zuerich)
 
-Auto generated R starter code for data set 1803@awel-kanton-zuerich.
+Auto-generated R starter code for the dataset 1803@awel-kanton-zuerich.
 
 ## Metadata
 

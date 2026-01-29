@@ -10,7 +10,7 @@ Nutzungsstatistiken der Metadatensätze von Verwaltungseinheiten und Organen des
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1501@fachstelle-ogd-kanton-zuerich)
 
-Auto generated R starter code for data set 1501@fachstelle-ogd-kanton-zuerich.
+Auto-generated R starter code for the dataset 1501@fachstelle-ogd-kanton-zuerich.
 
 ## Metadata
 

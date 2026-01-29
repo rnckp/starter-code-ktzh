@@ -10,7 +10,7 @@ Durchschnittliche Bauinvestitionen der letzten 5 Jahre im Bereich ÖV und Kommun
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/378@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 378@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 378@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

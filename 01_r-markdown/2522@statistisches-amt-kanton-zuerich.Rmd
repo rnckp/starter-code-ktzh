@@ -10,7 +10,7 @@ Dieser Datensatz enthält die Web Analytics des Datenkatalogs des Kantons Züric
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2522@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 2522@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 2522@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

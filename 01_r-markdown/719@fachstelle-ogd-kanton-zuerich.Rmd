@@ -10,7 +10,7 @@ Um die wirtschaftlichen Auswirkungen der Massnahmen zur Pandemiebekämpfung abzu
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/719@fachstelle-ogd-kanton-zuerich)
 
-Auto generated R starter code for data set 719@fachstelle-ogd-kanton-zuerich.
+Auto-generated R starter code for the dataset 719@fachstelle-ogd-kanton-zuerich.
 
 ## Metadata
 

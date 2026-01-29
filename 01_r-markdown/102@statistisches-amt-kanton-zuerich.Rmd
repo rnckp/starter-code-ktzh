@@ -10,7 +10,7 @@ Anteil 20-39-Jähriger an der Gesamtbevölkerung nach zivilrechtlichem Wohnsitz(
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/102@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 102@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 102@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

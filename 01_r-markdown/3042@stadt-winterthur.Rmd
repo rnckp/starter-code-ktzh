@@ -10,7 +10,7 @@ Der Datensatz beinhaltet die Messergebnisse der Zählstellen für den motorisier
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3042@stadt-winterthur)
 
-Auto generated R starter code for data set 3042@stadt-winterthur.
+Auto-generated R starter code for the dataset 3042@stadt-winterthur.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Die Datenreihe der Quartierspiegel gibt einen Überblick über wichtige Indikato
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2702@stadt-winterthur)
 
-Auto generated R starter code for data set 2702@stadt-winterthur.
+Auto-generated R starter code for the dataset 2702@stadt-winterthur.
 
 ## Metadata
 

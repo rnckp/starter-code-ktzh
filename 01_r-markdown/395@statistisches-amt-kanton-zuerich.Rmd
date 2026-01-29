@@ -10,7 +10,7 @@ Die Jahresrechnung beinhaltet die Nettoaufwendungen aus der Erfolgsrechnung aufg
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/395@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 395@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 395@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Anzahl MittelschülerInnen inkl. LangzeitgymnasiastInnen und SchülerInnen priva
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/41@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 41@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 41@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

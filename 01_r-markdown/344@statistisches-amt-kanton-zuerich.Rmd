@@ -10,7 +10,7 @@ Beschäftigung des Sekundärsektors (Bergbau, Verarbeitendes Gewerbe/Herstellung
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/344@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 344@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 344@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

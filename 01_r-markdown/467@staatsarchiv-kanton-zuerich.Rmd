@@ -10,7 +10,7 @@ Das Staatsarchiv Kanton Zürich hat Angaben zu sämtlichen Mitgliedern des Kanto
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/467@staatsarchiv-kanton-zuerich)
 
-Auto generated R starter code for data set 467@staatsarchiv-kanton-zuerich.
+Auto-generated R starter code for the dataset 467@staatsarchiv-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Anzahl Rindvieh (inkl. Kühe)
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/49@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 49@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 49@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

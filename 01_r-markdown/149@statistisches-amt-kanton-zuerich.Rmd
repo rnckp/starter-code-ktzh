@@ -10,7 +10,7 @@ Definition: Zahnärzte, welche eine Bewilligung zur selbständigen Berufsübung 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/149@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 149@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 149@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

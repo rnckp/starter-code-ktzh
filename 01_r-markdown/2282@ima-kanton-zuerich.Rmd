@@ -10,7 +10,7 @@ Ladevorgänge der E-Ladestationen für die Elektrofahrzeuge der kantonalen Fahrz
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2282@ima-kanton-zuerich)
 
-Auto generated R starter code for data set 2282@ima-kanton-zuerich.
+Auto-generated R starter code for the dataset 2282@ima-kanton-zuerich.
 
 ## Metadata
 

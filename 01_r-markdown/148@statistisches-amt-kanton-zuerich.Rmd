@@ -10,7 +10,7 @@ Am 30. September eingelöste Personenwagen. Hinweis: Der Wert für den ganzen Ka
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/148@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 148@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 148@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

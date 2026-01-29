@@ -10,7 +10,7 @@ in Bezug auf die Einwohnerzahl am Ende des vorhergehenden Jahres (Kantonale Erhe
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/224@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 224@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 224@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

@@ -11,7 +11,7 @@ Die Testkosten werden seit dem 01. Januar 2023 nicht mehr vom Bund übernommen. 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/671@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 671@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 671@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Definition: Alle öffentlichen Apotheken im Kanton Zürich. Aktuellstes Jahr pro
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/234@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 234@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 234@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

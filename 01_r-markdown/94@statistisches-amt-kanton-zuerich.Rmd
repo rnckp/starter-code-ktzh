@@ -10,7 +10,7 @@ Approximatives Gebäudevolumen von Industrie-, Gewerbe- und Lagerbauten
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/94@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 94@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 94@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

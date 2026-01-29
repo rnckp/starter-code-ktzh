@@ -10,7 +10,7 @@ Das AWEL führt seit 2011 vorallem auf Pausenplätzen von Schulen systematische 
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2462@awel-kanton-zuerich)
 
-Auto generated R starter code for data set 2462@awel-kanton-zuerich.
+Auto-generated R starter code for the dataset 2462@awel-kanton-zuerich.
 
 ## Metadata
 

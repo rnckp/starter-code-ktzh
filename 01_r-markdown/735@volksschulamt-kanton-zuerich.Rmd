@@ -10,7 +10,7 @@ Für Schulbehörden, Schulleitungen, Schulverwaltungen und Lehrpersonen zusammen
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/735@volksschulamt-kanton-zuerich)
 
-Auto generated R starter code for data set 735@volksschulamt-kanton-zuerich.
+Auto-generated R starter code for the dataset 735@volksschulamt-kanton-zuerich.
 
 ## Metadata
 

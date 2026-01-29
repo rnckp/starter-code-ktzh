@@ -10,7 +10,7 @@ In den Sommermonaten regelmässig erhobene Proben zur Überprüfung der Badewass
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/729@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 729@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 729@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

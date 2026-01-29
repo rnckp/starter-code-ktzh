@@ -10,7 +10,7 @@ Anteil 80-Jähriger und älterer Personen an der Gesamtbevölkerung nach zivilre
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/299@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 299@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 299@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 

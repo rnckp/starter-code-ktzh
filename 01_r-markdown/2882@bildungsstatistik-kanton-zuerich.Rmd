@@ -12,7 +12,7 @@ Die Daten werden im Rahmen der Statistik der Bildungsabschlüsse für das Bundes
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/2882@bildungsstatistik-kanton-zuerich)
 
-Auto generated R starter code for data set 2882@bildungsstatistik-kanton-zuerich.
+Auto-generated R starter code for the dataset 2882@bildungsstatistik-kanton-zuerich.
 
 ## Metadata
 

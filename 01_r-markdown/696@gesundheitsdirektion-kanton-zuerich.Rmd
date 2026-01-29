@@ -10,7 +10,7 @@ Die Gesundheitsdirektion Kanton Zürich veröffentlicht im Rahmen des kantonalen
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/696@gesundheitsdirektion-kanton-zuerich)
 
-Auto generated R starter code for data set 696@gesundheitsdirektion-kanton-zuerich.
+Auto-generated R starter code for the dataset 696@gesundheitsdirektion-kanton-zuerich.
 
 ## Metadata
 

@@ -10,7 +10,7 @@ Quantitatives Verhältnis zwischen den 0- bis 19-Jährigen und den 20- bis 64-J�
 
 [Direct data shop link for dataset](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/47@statistisches-amt-kanton-zuerich)
 
-Auto generated R starter code for data set 47@statistisches-amt-kanton-zuerich.
+Auto-generated R starter code for the dataset 47@statistisches-amt-kanton-zuerich.
 
 ## Metadata
 
